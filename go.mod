@@ -13,8 +13,8 @@ require (
 	github.com/prometheus/common v0.35.0
 	github.com/prometheus/exporter-toolkit v0.7.2
 	github.com/stretchr/testify v1.4.0
-	github.com/tklauser/go-sysconf v0.3.10
-	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
+	github.com/tklauser/go-sysconf v0.3.11
+	golang.org/x/sys v0.2.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/yaml.v2 v2.4.0
@@ -44,5 +44,5 @@ require (
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/tklauser/numcpus v0.4.0 // indirect
+	github.com/tklauser/numcpus v0.6.0 // indirect
 )
